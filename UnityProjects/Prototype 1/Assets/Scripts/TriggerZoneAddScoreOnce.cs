@@ -1,17 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//using UnityEngine.UI;
 
-public class PlayerEnterTrigger : MonoBehaviour
+public class TriggerZoneAddScoreOnce : MonoBehaviour
 {
-    //public Text textbox;
+    private bool triggered = false;
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.CompareTag("Trigger Zone"))
+        if (other.CompareTag("Player") && !triggered)
         {
-            //textbox.text = "You Win!";
+            triggered = true;
             ScoreManager.score++;
         }
     }
