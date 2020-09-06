@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Liam Barrett
+* Assignment 1
+* Changes the score and text on screen as player progresses through the game
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Liam Barrett
+* Assignment 1
+* Changes the score when a Trigger Zone detects the player via collision
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

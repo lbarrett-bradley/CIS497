@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Liam Barrett
+* Assignment 1
+* Adds points when the player collides with Trigger Zone
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 //using UnityEngine.UI;
