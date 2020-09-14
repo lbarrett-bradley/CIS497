@@ -1,4 +1,10 @@
-﻿//This script is based on https://www.youtube.com/watch?v=3uyolYVsiWc
+﻿/*
+ * Liam Barrett
+ * Challenge 2
+ * Operates health and win/loss conditions
+ */
+
+//This script is based on https://www.youtube.com/watch?v=3uyolYVsiWc
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

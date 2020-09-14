@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Liam Barrett
+ * Challenge 2
+ * destroys dog and ball objects when they leave the screen and removes health
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

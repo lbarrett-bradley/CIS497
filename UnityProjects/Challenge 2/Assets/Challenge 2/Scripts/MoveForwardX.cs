@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Liam Barrett
+ * Challenge 2
+ * Makes dog move forward
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
