@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * Liam Barrett
+ * Assignment 8
+ * Controls the running of the game, including win and loss conditions
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;

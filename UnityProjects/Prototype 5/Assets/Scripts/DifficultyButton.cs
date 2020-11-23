@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * Liam Barrett
+ * Assignment 8
+ * Makes the buttons on the title screen change the difficulty of the game
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

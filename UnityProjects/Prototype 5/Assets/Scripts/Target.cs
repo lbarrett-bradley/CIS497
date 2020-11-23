@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * Liam Barrett
+ * Assignment 8
+ * Makes the good and bad objects rise and fall on the screen and get destroyed when clicked
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
