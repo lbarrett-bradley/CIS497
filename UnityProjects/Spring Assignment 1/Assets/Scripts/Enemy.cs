@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Liam Barrett
+ * Enemy
+ * Spring Assignment 1
+ * Superclass for all enemy types
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

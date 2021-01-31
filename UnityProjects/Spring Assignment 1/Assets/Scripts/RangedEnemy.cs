@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Liam Barrett
+ * RangedEnemy
+ * Spring Assignment 1
+ * Concept code for an enemy with ranged attacks
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

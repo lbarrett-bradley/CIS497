@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Liam Barrett
+ * HealerEnemy
+ * Spring Assignment 1
+ * Concept code for a healing enemy
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

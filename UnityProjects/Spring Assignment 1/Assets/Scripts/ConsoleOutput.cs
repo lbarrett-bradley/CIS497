@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Liam Barrett
+ * ConsoleOutput
+ * Spring Assignment 1
+ * Tests Enemy subclasses and interfaces
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
